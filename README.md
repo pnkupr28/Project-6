@@ -6,15 +6,15 @@ _Patrick_
 
 ### Introspection
 
-_Describe the challenges you faced and what you learned_
+_The main challenge was being able to make sure I had everything properly added and imported. It was easy to overlook small details, like missing libraries or forgetting to download necessary resources such as stopword lists or lemmatization packages. Even with careful planning, I occasionally encountered errors because of a missing or incorrect import, which would disrupt the entire workflow. Ensuring all dependencies were in place, from nltk downloads to sklearn modules, required extra attention to detail and a systematic approach to troubleshooting. This process taught me the importance of double-checking my environment setup and dependencies before running the code_
 
 ### Dataset
 
-_Which dataset did you choose for the classification task?_
+The dataset that I choose for the classification task was "SMSSpam"_
 
 ### Resources
 
-_List the people and resources you used to complete the project_
+_I just had Vishnu make sure everything I did was correct and proper_
 
 
 ### *DO NOT EDIT BELOW THIS LINE*
